@@ -10,16 +10,16 @@ body {
 }
 
 .move-icon {
-  height: 140px;
+  height: 160px;
   border-width: 0px;
 }
 
 .move-button {
   background-color: transparent;
   border: 3px solid white;
-  width: 200px;
-  height: 200px;
-  border-radius: 100px;
+  width: 220px;
+  height: 220px;
+  border-radius: 110px;
   margin-right: 10px;
   cursor: pointer;
 }
